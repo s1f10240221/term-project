@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+  }
+  h1 {
+    margin: 0;
+    padding: 10px 0 10px 0;
+    color: rgb(212, 165, 212)
+  }
+  h2 {
+    color: #c7c
+  }
+  div.block {
+    display: inline-block;
+    background-color: #f1e8f5;
+    border: solid 3px #fac2fa;
+  }

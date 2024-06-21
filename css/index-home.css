@@ -9,3 +9,8 @@ body {
   h2 {
     color: #c7c
   }
+  div.block {
+    display: inline-block;
+    background-color: #f1e8f5;
+    border: solid 3px #fac2fa;
+  }

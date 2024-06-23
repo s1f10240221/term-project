@@ -1,0 +1,22 @@
+.sideber {
+  width: 20%;
+  margin: 10px 0 10px 0;
+}
+
+.sideber ul {
+  margin: 0;
+  padding: 0 10px 0 10px;
+}
+
+.sideber li {
+  display: block;
+  margin: 0 0 5px 0;
+  text-align: right;
+  color: rgb(100, 90, 120);
+  padding: 5px 5px 5px 5px;
+  background-color: rgb(200, 200, 200);
+}
+
+.content {
+  width: 80%;
+}

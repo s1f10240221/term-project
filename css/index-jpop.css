@@ -1,3 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+}
+
 .sideber {
   width: 20%;
   margin: 10px 0 10px 0;
@@ -19,13 +28,50 @@
 
 .content {
   width: 80%;
-  margin: 10px 0 10px 0;
 }
 
 h1 {
   text-align: center;
+   {
+  }
 }
 
-.a {
-  background-color: azure;
+.a ul {
+  list-style-position: inside;
+}
+
+.a ol {
+  list-style-position: inside;
+}
+
+.b ul {
+  list-style-position: inside;
+}
+
+.b ol {
+  list-style-position: inside;
+}
+
+.c ol {
+  list-style-position: inside;
+}
+
+.c ul {
+  list-style-position: inside;
+}
+
+.d ol {
+  list-style-position: inside;
+}
+
+.d ul {
+  list-style-position: inside;
+}
+
+.e ol {
+  list-style-position: inside;
+}
+
+.e ul {
+  list-style-position: inside;
 }

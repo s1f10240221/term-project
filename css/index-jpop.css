@@ -101,3 +101,35 @@ img {
   width: 800px;
   height: 450px;
 }
+
+#snow {
+  width: 75%;
+}
+
+#sixtones {
+  width: 75%;
+}
+
+#mrs {
+  width: 75%;
+}
+
+#arashi {
+  width: 75%;
+}
+
+#yoasobi {
+  width: 75%;
+}
+
+.f {
+  display: flex;
+}
+
+.song {
+  width: 50%;
+}
+
+.sns {
+  width: 50%;
+}

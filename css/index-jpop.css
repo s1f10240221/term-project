@@ -19,4 +19,13 @@
 
 .content {
   width: 80%;
+  margin: 10px 0 10px 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+.a {
+  background-color: azure;
 }

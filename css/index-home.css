@@ -1,16 +1,46 @@
 body {
+    font-family: sans-serif;
+    text-align: center;
     margin: 0;
   }
   h1 {
     margin: 0;
     padding: 10px 0 10px 0;
-    color: rgb(212, 165, 212)
+    color: black
   }
   h2 {
-    color: #c7c
+    color: black
   }
-  div.block {
-    display: inline-block;
-    background-color: #f1e8f5;
-    border: solid 3px #fac2fa;
+  .sideber {
+    width: 20%;
+    margin: 10px 0 10px 0;
+  }
+  
+  .sideber ul {
+    margin: 0;
+    padding: 0 10px 0 10px;
+  }
+  
+  .sideber li {
+    display: block;
+    margin: 0 0 5px 0;
+    text-align: right;
+    color: rgb(100, 90, 120);
+    padding: 5px 5px 5px 5px;
+    background-color: rgb(200, 200, 200);
+  }
+  div.block1 {
+    margin: 50px;
+    /* background-color: rgb(200, 200, 200); */
+  }
+  div.block2 {
+    margin: 50px;
+    /* background-color: rgb(200, 200, 200); */
+  }
+  div.block3 {
+    margin: 50px;
+    /* background-color: rgb(200, 200, 200); */
+  }
+  img {
+    width: 100%
   }

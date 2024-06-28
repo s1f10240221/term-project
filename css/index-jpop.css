@@ -96,3 +96,8 @@ h1 {
 .e {
   margin: 15px 5px 15px 5px;
 }
+
+img {
+  width: 800px;
+  height: 450px;
+}
